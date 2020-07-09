@@ -3,7 +3,7 @@
     "channels": [
       {
         "DisplayName": "Pre-Sale",
-        "IsChecked":true,
+        "IsChecked":false,
         "Tabs": [
           {
             "DisplayName": "Apps Playbook",
@@ -23,7 +23,7 @@
           {
             "DisplayName": "Test",
             "IsDefault":true,
-            "IsChecked":false
+            "IsChecked":true
           }
         ]
       },
@@ -39,7 +39,7 @@
             {
             "DisplayName": "CPOD",
             "IsDefault":true,
-            "IsChecked":false
+            "IsChecked":true
           }
         ]
       }
