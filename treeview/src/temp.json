@@ -1,0 +1,47 @@
+
+{
+    "channels": [
+      {
+        "DisplayName": "Pre-Sale",
+        "IsChecked":true,
+        "Tabs": [
+          {
+            "DisplayName": "Apps Playbook",
+            "IsDefault":false,
+            "IsChecked":false
+          },
+           {
+            "DisplayName": "Apps",
+            "IsDefault":false,
+            "IsChecked":false
+          },
+          {
+            "DisplayName": "Ipkit",
+            "IsDefault":false,
+            "IsChecked":false
+          },
+          {
+            "DisplayName": "Test",
+            "IsDefault":true,
+            "IsChecked":false
+          }
+        ]
+      },
+       {
+        "DisplayName": "Delivery",
+        "IsChecked":false,
+        "Tabs": [
+          {
+            "DisplayName": "Apps Playbook",
+            "IsDefault":false,
+            "IsChecked":false
+          },
+            {
+            "DisplayName": "CPOD",
+            "IsDefault":true,
+            "IsChecked":false
+          }
+        ]
+      }
+    ]
+  }
