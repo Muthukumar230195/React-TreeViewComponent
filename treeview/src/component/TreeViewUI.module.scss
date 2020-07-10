@@ -1,0 +1,54 @@
+.pcwAddOnContainer {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+    h2 {
+    margin: 0;
+    font-weight: normal;
+    flex-basis: 100%;
+    }
+    .pcwInner {
+    height: 400px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    padding: 9px 8px;
+    
+    div > {
+    i {
+    columns: #777777;
+    font-size: 12px;
+    + label {
+    color: #333333;
+    font-size: 15px;
+    margin: 0 0 0 8px;
+    }
+    }
+    }
+    .pcwInnerCheckboxtree {
+    padding: 9px 21px;
+    .channelSectionparent {
+    .channelSectioninner {
+    padding: 0 8px 0 8px;
+    .channelSectioninnerParent {
+    label {
+    font-weight: bold;
+    font-size: 14px;
+    color: #333333;
+    }
+    }
+    .channelSectioninnerChild {
+    margin: 16px 22px 0 27px;
+    }
+    .channelSectioninnerChildLabel {
+    padding: 0 0 16px 0px;
+    }
+    }
+    }
+    }
+    .treeToggle {
+    display: flex;
+    
+    align-items: center;
+    }
+    }
+   }
